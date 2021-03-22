@@ -3,7 +3,7 @@
 
 This notebook will predict search traffic and see if that will translate into the ability to successfully trade the stock. In this notebook we will prepare the data, analyze the data, and visualize the data for the time series data that we will need to understand. We will visualize depictions of seasonality that are of interest to the company, evaluate how the company's stock price correlates to it's Google search traffic, and forecast models that can predict hourly user search traffic.
 
-![](Images/Elbow_Curve.png)
+![](Resources/module_11_predictionsplot.png)
 
 ---
 
